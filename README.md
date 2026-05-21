@@ -3,8 +3,11 @@
 To write a program to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm.
 
 ## Problem Statement and Dataset
+Problem Statement:
 
+To develop a model using the Random Forest Algorithm to predict temperature, PM2.5 level, and energy consumption based on environmental sensor data like humidity, wind speed, and pressure.
 
+Dataset: The dataset contains environmental parameters such as: Humidity Wind Speed Pressure Temperature PM2.5 Energy Format: CSV file (weather_data.csv) Type: Numerical data
 
 ## Equipments Required:
 1. Hardware – PCs
@@ -88,3 +91,4 @@ RegisterNumber: 212225230133
 <img width="1007" height="710" alt="ml 103" src="https://github.com/user-attachments/assets/bb60e840-c244-4b78-b10f-13cadec2870c" />
 
 ## Result:
+Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
